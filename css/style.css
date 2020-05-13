@@ -32,7 +32,7 @@
 }
 
 body {
-    color: #000000;
+    color: #c0c0c0;
     line-height: 2;
     font-size: 15px;
     font-family: "Poppins", sans-serif;
@@ -40,7 +40,7 @@ body {
     min-width: 320px;
     position: relative;
     overflow-x: hidden;
-    background: linear-gradient(to right, #fff0f0 0%, #fff0f0 60%, white 60%);
+    background: linear-gradient(to right, #343434 30%, #fff0f0 60%, #f9f9f9 60%);
     background-position: center;
 }
 
@@ -100,7 +100,7 @@ img.block-right {
 .page-wrapper {
     pointer-events: auto;
     width: 100%;
-    background-color: #fff0f0;
+    background-color: #343434;
     max-width: 800px;
 }
 
@@ -362,7 +362,7 @@ img.block-right {
 
 #home .entry-title {
     position: absolute;
-    color: #f44647;
+    color: #555555;
     font-weight: 800;
     font-size: 140px;
     line-height: 143px;
@@ -996,7 +996,7 @@ div.pp_default .pp_description {
     font-size: 12px;
     line-height: 25px;
     letter-spacing: 3px;
-    color: #000;
+    color: #eaeaea;
     background-color: transparent;
     border: 0;
     border-bottom: 2px solid;
@@ -1033,7 +1033,7 @@ p.contact-submit-holder {
     vertical-align: middle;
     text-decoration: none;
     background-color: transparent;
-    color: #000;
+    color: #eaeaea;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     width: 100%;
