@@ -362,7 +362,7 @@ img.block-right {
 
 #home .entry-title {
     position: absolute;
-    color: #555555;
+    color: #e3e3e3;
     font-weight: 800;
     font-size: 140px;
     line-height: 143px;
@@ -1050,7 +1050,7 @@ p.contact-submit-holder {
 .contact-form input[type=email]::-webkit-input-placeholder, 
 .contact-form textarea::-webkit-input-placeholder {
     font-family: 'Poppins', sans-serif;
-    color: #000;
+    color: #999999;
     font-weight: 400;
     font-size: 12px;
     line-height: 25px;    
@@ -1061,7 +1061,7 @@ p.contact-submit-holder {
 .contact-form input[type=email]:-ms-input-placeholder, 
 .contact-form textarea:-ms-input-placeholder {
     font-family: 'Poppins', sans-serif;
-    color: #000;
+    color: #999999;
     font-weight: 400;
     font-size: 12px;
     line-height: 25px;    
@@ -1072,7 +1072,7 @@ p.contact-submit-holder {
 .contact-form input[type=email]::placeholder, 
 .contact-form textarea::placeholder {
     font-family: 'Poppins', sans-serif;
-    color: #000;
+    color: #999999;
     font-weight: 400;
     font-size: 12px;
     line-height: 25px;
