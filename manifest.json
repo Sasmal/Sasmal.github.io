@@ -2,7 +2,7 @@
   "name": "analytics",
   "short_name": "analytics",
   "theme_color": "#ef6c00",
-  "background_color": "#fafafa",
+  "background_color": "#ef6c00",
   "display": "standalone",
   "scope": "/",
   "start_url": "/index.html",
